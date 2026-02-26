@@ -10,11 +10,9 @@ The following are prerequisites for this workshop:
    - Make sure `stdout` and `stderr` logs are captured in your reports
    - If your XML files are in a different format, please contact us.
 
-1. You need a computer with `git`, `python3` (3.13 or later), and `java` installed.
+1. You need a computer with `git`, `python3` (3.13 or later), and `java` (8 or later) installed.
 
 1. Prepare a repository that contains test code where you want to try PTS. We recommend using a repository you normally work with. (You will not need to push any code during the hands-on.)
-
-1. Share your GitHub ID with us, so that we can add you as a collaborator to the workshop.
 
 1. Follow the invitation link we send to you, and perform the sign-up process.
 
